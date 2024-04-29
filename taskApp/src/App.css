@@ -1,0 +1,16 @@
+.app{
+  width: 40%;
+  background-color: #fff;
+  margin: 5rem auto;
+  border-radius: 5px;
+  padding: 2rem 2rem;
+}
+h2{
+  font-size: 2rem;
+}
+
+@media only screen and (max-width: 540px) {
+  .app{
+    width: 90%;
+  }
+}
